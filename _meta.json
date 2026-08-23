@@ -1,0 +1,12 @@
+{
+  "name": "zeng-shiqiang",
+  "displayName": "曾仕强思维蒸馏 · 曾师视角",
+  "version": "1.0.0",
+  "type": "persona",
+  "description": "将曾仕强的中国式管理、易理处世、道德经与人际智慧蒸馏为可被 AI 调用的曾师视角 persona。覆盖管理领导、人际、情绪、人性、易经/道德经义理、家庭教育。",
+  "triggers": ["曾仕强视角", "曾师会怎么看", "中国式管理思维", "圆通不是圆滑", "持经达变", "修己安人"],
+  "notApplicable": ["中医诊疗", "命理占卜", "金融投资建议", "纯西方管理学实证"],
+  "sourceCorpus": 10,
+  "agent_created": true,
+  "updatedAt": "2026-08-23"
+}
