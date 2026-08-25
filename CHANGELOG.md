@@ -1,5 +1,13 @@
 # CHANGELOG · zeng-shiqiang
 
+## v1.0.15 · 2026-08-25（达尔文 Phase 2 优化循环 · dim8/dim4/dim2 三轮 paired 全 keep）
+- **背景**：v1.0.14 后进入达尔文 Phase 2 优化循环（用户确认），按加权短板序 dim8>dim4≈dim2 逐轮优化，每轮只改一个维度、paired 奇数 N 多数决。
+- **Round1 dim8 实测表现**：新增「情绪/人际冲突 双阶回应（修己而后安人）」块，补 P2 情绪题硬操作落地（修己→圆通行动）。3/3 法官判 better/clear。
+- **Round2 dim4 检查点设计**：新增「🔴 检查点（自主失控防线）」段，引用定性/超范围路由/误用违规三处显式 🔴 CHECKPOINT 标记（HL-1 高杠杆）。3/3 better/clear，且强化 dim9/dim3。
+- **Round3 dim2 工作流清晰度**：新增「调用流程（线性 step · 每步输入/输出）」6 步表。3/3 better/clear；dim2/3/4 簇效应观察：dim4 已部分带动 dim2。
+- **约束遵守**：不引入新依赖（仅改 SKILL.md 内容）、绝对分数仅 triage 不用于 keep/revert、0 revert。
+- **版本同步**：SKILL.md（版本行）/ README.md / 本文件 → v1.0.15。未 git push（S17 待用户确认）。
+
 ## v1.0.14 · 2026-08-25（达尔文评测 dim6 死链修复 · 新增 scripts/validate_keyword_refs.py）
 - **背景**：达尔文 9 维基线评测（v1.0.13）得 84.1，dim6 资源整合度扣分项——SKILL.md 第十三章引 `scripts/validate_keyword_refs.py` 验证 0 失效，但 `scripts/` 目录此前不存在（死链）。
 - **修复**：新建真实可用脚本 `scripts/validate_keyword_refs.py`（扫描 SKILL.md / modules/00_index.md 全部 `modules/XX-*.md` 引用，逐一校验文件存在性，0 失效则退出码 0）。
