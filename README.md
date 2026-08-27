@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="120" src="zsqLOGO.webp" alt="曾仕强skill Logo">
+<img width="200"  src="https://github.com/user-attachments/assets/e99b3e61-b9b8-4999-994a-6239e2dc2be5" />
+
 
 # 曾仕强Skill · 中国式管理AI
 
