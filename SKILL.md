@@ -266,10 +266,10 @@ description: 曾仕强（1934–）思维蒸馏 persona。将曾仕强的中国�
 | 著作原文·易经 | `modules/09-yi-jing-de-zhi-hui-1.md`·`10-yi-jing-de-zhi-hui-2.md` 搜"乾卦" / "阴阳" / "卦序" |
 | 著作原文·易经入门 | `modules/11-yi-jing-zhen-de-hen-rong-yi.md` 搜"为什么容易" / "一阴一阳" / "伏羲" / "持经达变" |
 | 著作原文·修己安人 | `modules/12-gui-xin-xiu-ji-an-ren.md` 搜"管人靠科学" / "修己安人" / "中国式管理哲学" / "持经达权" |
-| 著作原文·品三国 | `modules/13-pin-san-guo.md` 搜"曹操" / "刘备以人为本" / "诸葛亮" / "职场江湖" / "关羽失荆州" / "赵云" / "气节不可改" / "曹操坚守原则" |
-| 著作原文·胡雪岩 | `modules/14-hu-xue-yan-de-qi-shi.md` 搜"德行" / "诚信" / "戒欺" / "自作自受" / "为富要仁" / "成全" |
+| 著作原文·品三国 | `modules/13-pin-san-guo.md` 搜"曹操" / "刘备" / "诸葛亮" / "职场江湖" / "关羽失荆州" / "赵云" / "气节不可改" / "曹操坚守原则" / "领导之道" / "知人善任" / "接班人" / "修己" / "领导核心" / "智谋胆识" |
+| 著作原文·胡雪岩 | `modules/14-hu-xue-yan-de-qi-shi.md` 搜"德行" / "诚信" / "福祸" / "自作自受" / "为富要仁" / "成全" |
 | 著作原文·经典语录 | `modules/15-zeng-shi-qiang-jing-dian-yu-lu.md` 搜"返本归元" / "自作自受" / "齐家" / "处世" |
-| 著作原文·说中国人 | `modules/16-zeng-shi-qiang-shuo-zhong-guo-ren.md` 搜"变了又没变" / "面子" / "差不多" / "明哲保身" / "民族性" / "人不为己" / "天诛地灭" / "说两句话的民族" |
+| 著作原文·说中国人 | `modules/16-zeng-shi-qiang-shuo-zhong-guo-ren.md` 搜"变了又没变" / "面子" / "差不多" / "明哲保身" / "民族性" / "两句话" / "三分话" / "中庸" |
 | 著作原文·易经的奥秘 | `modules/17-yi-jing-de-ao-mi.md` 搜"群经之首" / "三把钥匙" / "伏羲八卦" / "六十四卦" / "十翼" / "占卦" |
 | 著作原文·圆通领导 | `modules/18-yuan-tong-ling-dao-jing-jie.md` 搜"圆通" / "圆滑" / "推拖拉" / "不管之管" / "领导中心" / "知心交心" |
 | 著作原文·美满亲子 | `modules/19-mei-man-qin-zi-guan-xi.md` 搜"亲子关系" / "人禽之辨" / "以身作则" / "父母责任" / "沟通" |
@@ -281,7 +281,7 @@ description: 曾仕强（1934–）思维蒸馏 persona。将曾仕强的中国�
 | 著作原文·做最好的干部 | `modules/25-zuo-zui-hao-de-gan-bu.md` 搜"不管人只理人" / "无为而治" / "不执着" / "人性" |
 | 著作原文·说三国领导力 | `modules/26-zeng-shi-qiang-shuo-san-guo-ling-dao-li.md` 搜"大局观" / "隆中对策" / "合纵" / "以退为进" |
 | 著作原文·中国企业怎么管 | `modules/27-zhong-guo-qi-ye-zen-me-guan.md` 搜"内外兼修" / "企业形象" / "企业文化" / "合理计划" |
-| 著作原文·最有效的激励 | `modules/28-zui-you-xiao-de-ji-li-yi-shu.md` 搜"激励两难" / "有本事来拿" / "合理不公平" |
+| 著作原文·最有效的激励 | `modules/28-zui-you-xiao-de-ji-li-yi-shu.md` 搜"激励两难" / "有本事来拿" / "合理不公平" / "安人维持" / "自我激励" / "持经达权" / "不可盲目激励" |
 | 著作原文·领导的真功夫 | `modules/29-ling-dao-de-zhen-gong-fu.md` 搜"深藏不露" / "象棋模式" / "领导文化" |
 | 著作原文·人脉关系课 | `modules/30-ren-mai-guan-xi-ke.md` 搜"靠关系" / "人伦关系" / "六大原则" / "三阶段" |
 | 著作原文·做最好的总裁 | `modules/31-zuo-zui-hao-de-zong-cai.md` 搜"英雄" / "仁人志士" / "四种英雄" / "总裁观念" |
@@ -289,6 +289,19 @@ description: 曾仕强（1934–）思维蒸馏 persona。将曾仕强的中国�
 | 著作原文·情绪管理 | `modules/33-qing-xu-guan-li.md` 搜"情绪管理" / "易生气" / "修身养性" / "情绪是反应" |
 | 著作原文·中国式团队 | `modules/34-zhong-guo-shi-tuan-dui.md` 搜"日本团队" / "绝对服从" / "盲目顺从" / "中国式团队" |
 | 著作原文·圆通的人际关系 | `modules/35-yuan-tong-de-ren-ji-guan-xi.md` 搜"和谐绝非讨好" / "圆通绝非圆滑" / "卖力不卖命" / "尊重而不盲从" |
+| 著作原文·论语的生活智慧 | `modules/36-lun-yu-de-sheng-huo-zhi-hui.md` 搜"孔门三乐" / "学而时习" / "为政以德" / "以人为本" / "里仁为美" / "有等差的爱" / "己所不欲" / "过犹不及" / "文质彬彬" |
+| 著作原文·无垢镜智 | `modules/37-wu-gou-jing-zhi.md` 搜"镜智" / "照镜子" / "修正自己" / "爱人如己" / "合理不公平" / "情绪管理第一优先" / "德本才末" / "修己安人" / "将心比心" / "平常心" |
+| 著作原文·易经的中道思维 | `modules/38-yi-jing-de-zhong-dao-si-wei.md` 搜"中道" / "易理以人为本" / "吉凶互变" / "时中" / "泰否相循" / "损益修德" |
+| 著作原文·详解道德经 | `modules/39-zeng-shi-qiang-xiang-jie-dao-de-jing.md` 搜"道德经" / "道可道" / "无为与不争" / "上善若水" / "柔弱" / "道法自然" |
+| 著作原文·解开宇宙的密码 | `modules/40-jie-kai-yu-zhou-de-mi-ma.md` 搜"宇宙" / "一阴一阳" / "太极" / "乾坤门户" / "大畜小畜" / "六十四卦" |
+| 著作原文·走进乾坤的门户 | `modules/41-zou-jin-qian-kun-de-men-hu.md` 搜"乾坤" / "乾坤为易之门" / "乾之六大特性" / "坤之六大特性" / "乾坤合观" / "慎断" |
+| 著作原文·人人都不了了之 | `modules/42-ren-ren-dou-bu-liao-liao-zhi.md` 搜"既济未济" / "求得好死" / "谨慎小心" / "过程重于结果" / "持经达变" |
+| 著作原文·转化干戈为玉帛 | `modules/43-zhuan-hua-gan-ge-wei-yu-bo.md` 搜"师忧比乐" / "需讼之源" / "亲比与用人" / "教育与德治" / "釜底抽薪" |
+| 著作原文·生无忧而死无惧 | `modules/44-sheng-wu-you-er-si-wu-ju.md` 搜"心易" / "止欲修行" / "艮卦" / "人所能主宰者" / "仁义" |
+| 著作原文·财神文化 | `modules/45-cai-shen-wen-hua.md` 搜"财神文化" / "德本财末" / "正财" / "生聚通" / "自作自受" |
+| 著作原文·大易管理 | `modules/46-da-yi-guan-li.md` 搜"大易管理" / "象数理占" / "知常知变" / "占卜与决策" / "力行" |
+| 著作原文·易经的智慧3 | `modules/47-yi-jing-de-zhi-hui-3.md` 搜"序卦传" / "泰否循环" / "忧患意识" / "大有谦豫" / "随蛊" |
+| 著作原文·道德是最佳信仰 | `modules/48-dao-de-shi-zui-jia-xin-yang.md` 搜"信仰与道德" / "道德之义" / "天人合德" / "逆境修德" / "明夷" |
 
 ---
 
@@ -344,7 +357,7 @@ description: 曾仕强（1934–）思维蒸馏 persona。将曾仕强的中国�
 | modules/10-yi-jing-de-zhi-hui-2.md | 易经的智慧 2 | 参考 ☆ |
 | modules/11-yi-jing-zhen-de-hen-rong-yi.md | 易经真的很容易（入门·易理） | 参考 ☆ |
 | modules/12-gui-xin-xiu-ji-an-ren.md | 归心：说修己安人之道 | 参考 ☆ |
-| modules/13-pin-san-guo.md | 品三国系列（曹操/孙权/刘备/诸葛亮/关羽/赵云） | 参考 ☆ |
+| modules/13-pin-san-guo.md | 品三国系列（曹操/孙权/刘备/诸葛亮/关羽/赵云 + 品三国2·领导之道五阶） | 参考 ☆ |
 | modules/14-hu-xue-yan-de-qi-shi.md | 胡雪岩的启示（百家讲坛） | 参考 ☆ |
 | modules/15-zeng-shi-qiang-jing-dian-yu-lu.md | 曾仕强经典语录（罗浮山国学院编） | 参考 ☆ |
 | modules/16-zeng-shi-qiang-shuo-zhong-guo-ren.md | 曾仕强说中国人（民族性） | 参考 ☆ |
@@ -359,7 +372,7 @@ description: 曾仕强（1934–）思维蒸馏 persona。将曾仕强的中国�
 | modules/25-zuo-zui-hao-de-gan-bu.md | 做最好的干部（不管人只理人/无为而治） | 参考 ☆ |
 | modules/26-zeng-shi-qiang-shuo-san-guo-ling-dao-li.md | 曾仕强说三国领导力（大局观/合纵联盟） | 参考 ☆ |
 | modules/27-zhong-guo-qi-ye-zen-me-guan.md | 中国企业怎么管（内外兼修/企业文化） | 参考 ☆ |
-| modules/28-zui-you-xiao-de-ji-li-yi-shu.md | 最有效的激励艺术（激励两难/有本事来拿） | 参考 ☆ |
+| modules/28-zui-you-xiao-de-ji-li-yi-shu.md | 最有效的激励艺术（激励两难/有本事来拿/安人维持/自我激励/持经达权） | 参考 ☆ |
 | modules/29-ling-dao-de-zhen-gong-fu.md | 领导的真功夫（深藏不露/领导文化） | 参考 ☆ |
 | modules/30-ren-mai-guan-xi-ke.md | 人脉关系课（靠关系/人伦关系） | 参考 ☆ |
 | modules/31-zuo-zui-hao-de-zong-cai.md | 做最好的总裁（英雄/四种英雄） | 参考 ☆ |
@@ -367,7 +380,20 @@ description: 曾仕强（1934–）思维蒸馏 persona。将曾仕强的中国�
 | modules/33-qing-xu-guan-li.md | 情绪管理（中国人易生气/修身养性） | 参考 ☆ |
 | modules/34-zhong-guo-shi-tuan-dui.md | 中国式团队（日本团队/合理不盲从） | 参考 ☆ |
 | modules/35-yuan-tong-de-ren-ji-guan-xi.md | 圆通的人际关系（和谐非讨好/圆通非圆滑/卖力不卖命，曾仕强著·非23册TOC） | 参考 ☆ |
+| modules/36-lun-yu-de-sheng-huo-zhi-hui.md | 论语的生活智慧（上+下·孔门三乐/为政以德/里仁/有等差的爱/己所不欲/过犹不及，曾仕强曾仕良著·非23册TOC） | 参考 ☆ |
+| modules/37-wu-gou-jing-zhi.md | 无垢镜智（镜智照镜子/修正自己爱人如己/合理不公平/情绪管理第一优先/德本才末/修己安人/将心比心，曾仕强著·非23册TOC） | 参考 ☆ |
+| modules/38-yi-jing-de-zhong-dao-si-wei.md | 易经的中道思维（中道太极/易理以人为本/吉凶互变/时中/泰否相循，曾仕强刘君政著·非23册TOC·F4） | 参考 ☆ |
+| modules/39-zeng-shi-qiang-xiang-jie-dao-de-jing.md | 曾仕强详解道德经（道可道/无为不争/上善若水/道法自然，电视讲座书·与M03同源·F4） | 参考 ☆ |
+| modules/40-jie-kai-yu-zhou-de-mi-ma.md | 解开宇宙的密码（宇宙密码/一阴一阳/太极/乾坤门户/大畜小畜，曾仕强刘君政著·F4） | 参考 ☆ |
+| modules/41-zou-jin-qian-kun-de-men-hu.md | 走进乾坤的门户（乾坤为易之门/乾之六大特性/坤之六大特性/慎断，现代易学院01·F4） | 参考 ☆ |
+| modules/42-ren-ren-dou-bu-liao-liao-zhi.md | 人人都不了了之（既济未济/求得好死/谨慎小心/持经达变，曾仕强刘君政著·F4） | 参考 ☆ |
+| modules/43-zhuan-hua-gan-ge-wei-yu-bo.md | 转化干戈为玉帛（师忧比乐/需讼之源/亲比与用人/教育与德治，曾仕强刘君政著·F4） | 参考 ☆ |
+| modules/44-sheng-wu-you-er-si-wu-ju.md | 生无忧而死无惧（心易/止欲修行/艮卦/仁义，曾仕强刘君政著·F4） | 参考 ☆ |
+| modules/45-cai-shen-wen-hua.md | 财神文化（财神文化/德本财末/正财/生聚通/自作自受，曾仕强著·F4） | 参考 ☆ |
+| modules/46-da-yi-guan-li.md | 大易管理（大易管理/象数理占/知常知变/占卜与决策，曾仕强著·F4） | 参考 ☆ |
+| modules/47-yi-jing-de-zhi-hui-3.md | 易经的智慧3（序卦传/泰否循环/大有谦豫/随蛊，曾仕强主讲·接M09/M10·F4） | 参考 ☆ |
+| modules/48-dao-de-shi-zui-jia-xin-yang.md | 道德是最佳信仰（信仰与道德/道德之义/天人合德/逆境修德，曾仕强刘君政著·F4） | 参考 ☆ |
 
 > **references 编号说明**：本目录编号非连续，缺失的 10/11/13/14/16–23/25 未独立设文件，相关内容已并入现有文件——「中国式管理三阶段/交互主义」并入 01/02、「易经三把钥匙/道德经框架」并入 12、「原则体系/絜矩」并入 24、「传记/谱系/FAQ/伦理」并入 05/07/08/09；v1.0.0 自测报告已移出至 `test/v1.0.0-consistency-report-legacy.md`（历史稿）。新增参考文件请顺延或插入语义邻近编号，勿留断号歧义。
 
-**版本变更历史**：见 CHANGELOG.md（v1.0.16 · 2026-08-25 达尔文 Phase 2 dim8 加深：多场景双阶示例表；v1.0.15 为 dim8/dim4/dim2 三轮 paired 全 keep；v1.0.14 为 dim6 死链修复）。
+**版本变更历史**：见 CHANGELOG.md（v1.0.22 · 2026-08-27 新增 M38–M48 共 11 模块（详解易经系列 6 本+易经的智慧3+大易管理+财神文化+道德是最佳信仰+详解道德经，均 F4 独立成册），skill 覆盖扩至 48 模块；v1.0.21 · 2026-08-25 全量深度蒸馏（M01–M37 共 37 模块均补「核心心智模型」段+每条原话【推断】推理脉络+「决策启发式·场景落点」表）；v1.0.20 · 2026-08-25 M37 深度蒸馏补强（镜智心智模型+【推断】脉络+决策启发式）；v1.0.19 · 2026-08-25 新增 M37《无垢镜智》(F4 独立成册)；v1.0.18 新增 M36《论语的生活智慧（上+下）》+ M28 补足十二章 + 索引全面性测试；v1.0.17 品三国系列套装3册权威源充实 M13；v1.0.16 达尔文 Phase 2 dim8 加深；v1.0.15 dim8/dim4/dim2 三轮 paired 全 keep；v1.0.14 dim6 死链修复）。
