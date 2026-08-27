@@ -59,9 +59,23 @@ npx skills add https://clawhub.ai/jangviktor-web/skills/zeng-shiqiang
 
 ```bash
 # 待通过 SkillHub 审核
-请根据 https://skillhub.cn/install/skillhub.md，安装 @user_ff4d9420/zeng-shiqiang。
+请根据 https://skillhub.cn/install/skillhub.md，安装 @user_ff4d9420/zengshiqiang。
 ```
 </details>
+
+<details>
+<summary><b>手机端（腾讯 IMA APP）（直接到IMA SKILL 商场更新即可)</b></summary>
+       
+```bash
+进入ima copilot 右上角齿轮点进去
+点击Skill管理，点击加号➕
+进入Skill发现界面，在搜索框输入“曾仕强”
+出现“曾仕强国学AI Agent Skill”就是本Skill,点进去点击安装即可。
+```
+<img width="2000" src="https://github.com/user-attachments/assets/02bd56df-4161-45f4-8a09-1c2315f45663" />
+
+</details>
+
 
 <details>
 <summary><b>历史版本下载</b></summary>
