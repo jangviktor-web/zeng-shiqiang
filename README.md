@@ -45,12 +45,12 @@ cp -r zeng-shiqiang/ ~/.claude/skills/zeng-shiqiang/
 </details>
 
 <details>
-<summary><b>ClawHub（待发布）</b></summary>
+<summary><b>ClawHub </b></summary>
 
 ```bash
-# 待仓库通过 ClawHub 审核后可用
-openclaw skills install @jangviktor-web/zeng-shiqiang
-npx skills add https://clawhub.ai/jangviktor-web/skills/zeng-shiqiang
+# ClawHub
+请根据 openclaw skills install @jangviktor-web/zengshiqiang
+npx skills add https://clawhub.ai/jangviktor-web/skills/zengshiqiang  ，安装skill
 ```
 </details>
 
@@ -59,7 +59,7 @@ npx skills add https://clawhub.ai/jangviktor-web/skills/zeng-shiqiang
 
 ```bash
 #  SkillHub 
-请根据 https://skillhub.cn/install/skillhub.md，安装 @user_ff4d9420/zengshiqiang。
+ https://skillhub.cn/install/skillhub.md，安装 @user_ff4d9420/zengshiqiang。
 ```
 </details>
 
