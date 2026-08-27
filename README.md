@@ -55,10 +55,10 @@ npx skills add https://clawhub.ai/jangviktor-web/skills/zeng-shiqiang
 </details>
 
 <details>
-<summary><b>SkillHub（腾讯云·待发布）</b></summary>
+<summary><b>SkillHub（腾讯云）</b></summary>
 
 ```bash
-# 待通过 SkillHub 审核
+#  SkillHub 
 请根据 https://skillhub.cn/install/skillhub.md，安装 @user_ff4d9420/zengshiqiang。
 ```
 </details>
